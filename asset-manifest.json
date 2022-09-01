@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/safarweb/static/js/main.661b10c4.js",
+    "static/media/safar.jpg": "/safarweb/static/media/safar.20755489205f7dfa014f.jpg",
+    "index.html": "/safarweb/index.html",
+    "main.661b10c4.js.map": "/safarweb/static/js/main.661b10c4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.661b10c4.js"
+  ]
+}
