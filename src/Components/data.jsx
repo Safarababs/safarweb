@@ -175,13 +175,13 @@ const data = [
     },
     {
         key: 29,
-        templateName: "fashion blog Template ",
+        templateName: "fashion Template ",
         websiteLink: "https://safarababs.github.io/Fashion-Blog-Website-Template/",
         imageLink: "https://www.w3schools.com/w3css/img_temp_fashion_blog.jpg"
     },
     {
         key: 30,
-        templateName: "food blog Template ",
+        templateName: "food Template ",
         websiteLink: "https://safarababs.github.io/Food-Website-Template/",
         imageLink: "https://www.w3schools.com/w3css/img_temp_food_blog.jpg"
     },
