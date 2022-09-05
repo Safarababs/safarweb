@@ -3,7 +3,7 @@ const data = [
         key: 33,
         templateName: "Client Portfolio",
         websiteLink: "https://safarababs.github.io/shahzad-aslam/",
-        imageLink: "https://drive.google.com/file/d/1EwlqjapVoPBt42ZqzhceczkaQGaBzu5Y/view?usp=sharing",
+        imageLink: "https://lh3.googleusercontent.com/dxqH2oEIblzdg5sIES-QGQ7OlvJF9Zbyfw5G39oLkqtZPhuvh3gzQr6AbN77KEyn64L3VeyOAybU3MQJQfVmRD87AOgjxxvkqDXdyDc_IrKaJOlpLBCn6aiQFlmxrwMpO-Ytx6tJMRCAYSSzdg7T4jQBgZv6j0Cv6dgqHo4rlFNr4tz6no0scN8VDCRkUdffoa33caNEQ-cICsg1ZZI0omXV85tjyP25Oo07QXr5Ypt-v43j01211Esu2E7HCgr5zx0blok6-WY89C1K3c462CVrZxZQ0zTnzg2xyNjC-WLTYhFb_3nSSRxzeiNkXyTnMapaDoGm0LzlBWBNPJLOnfKJ7uoeo4dWn9XGLzqGdleiHnY-ff6-BrCOM-enCWawWdl73h0Ln4SZPRYPZtkcW92Su5RrefSco3iWwjFUtSs20yX-Yp7m8ejzmfhWdLLkc4UaAKquXNz6QtVckc50fb8N38EhsUeTwd_fQLE-cQjz5E7JYykBh507w4biaYCZnQfxtZIsM7-Ll_NcC2FSSuqXmUMOaavNIlx0FboM_nSMeOxbRS60nFVnV3c9ghf_zV7xW30nH-hykdzThzB6vbNvzsgl4crVLGy4-yYVtOVJ37Y5KAAw0JrJUUsO7Prm6jZhBgydxXRv8Efj6BOAAmD1qsoES04n_9tIx4sQSuk5MDnHRCTKUQUlSubDKeOSJVtn6r5rz70P6zILFv_ZgIGsJhKGWCMZJmHJfpk0GksFUGVoTZjilFMt04S8=w472-h220-no?authuser=0",
     },
     {
         key: 0,
