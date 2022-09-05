@@ -1,5 +1,11 @@
 const data = [
     {
+        key: 33,
+        templateName: "Client Portfolio",
+        websiteLink: "https://safarababs.github.io/shahzad-aslam/",
+        imageLink: "https://drive.google.com/file/d/1EwlqjapVoPBt42ZqzhceczkaQGaBzu5Y/view?usp=sharing",
+    },
+    {
         key: 0,
         templateName: "CV Template ",
         websiteLink: "https://safarababs.github.io/SafarCV/",
