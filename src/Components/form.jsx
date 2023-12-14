@@ -9,7 +9,7 @@ function Form() {
     function handleClick(event) {
         event.preventDefault();
 
-        emailjs.sendForm('service_emjf1t3', 'Tonton E.T Enterprise', event.target, 'eoy6A7j3RjMiULFpI')
+        emailjs.sendForm('service_emjf1t3', 'Tonton E.T Enterprise', event.target, 'oMQJa8lQkpH2z6yB6TUGf')
           .then((result) => {
               console.log(result.text);
           }, (error) => {
